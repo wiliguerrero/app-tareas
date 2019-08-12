@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tasks</string>
+    <string name="main_name">task-app</string>
+    <string name="lbl_continue">Continue</string>
+</resources>
